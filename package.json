@@ -33,7 +33,7 @@
   "dependencies": {
     "loopback-sdk-angular": "^1.1.1",
     "optimist": "^0.6.1",
-    "semver": "^2.2.1"
+    "semver": "^7.5.2"
   },
   "devDependencies": {
     "bluebird": "^1.2.1",
